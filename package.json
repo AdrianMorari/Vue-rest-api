@@ -1,0 +1,25 @@
+{
+  "name": "vue-rest-api",
+  "version": "1.0.0",
+  "description": "My-first-VueJS-v2-project",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "JS",
+    "VueJS",
+    "REST",
+    "API"
+  ],
+  "author": "A-Morari",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
+}
